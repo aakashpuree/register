@@ -1,0 +1,11 @@
+{
+  "description": "aakashpuree Portfolio",
+  "repo": "https://github.com/aakashpuree/portfolio",
+  "owner": {
+    "username": "aakashpuree",
+    "email": "aakash.puri.online@gmail.com"
+  },
+  "record": {
+    "CNAME": "aakashpuree.vercel.app"
+  }
+}
